@@ -8,4 +8,4 @@ Images to change:
    width: 100px;
    height: 100px;
    }
-4.
+   4.Change the abouts object array in About.jsx (can also change the logo in the file) (and also change the image urls in this array of about objects)
