@@ -16,3 +16,4 @@ Changes to do:
    }
 4. Change the abouts object array in About.jsx (can also change the logo in the file) (and also change the image urls in this array of about objects) (actually now the about objects are linked to sanity so change it from there)
 5. Change creative portfolio array (prolly gonna be objects from sanity) (static for now) (actually both change static array line 31(tag array) and Works section in sanity)
+6. Also update skills in sanity
