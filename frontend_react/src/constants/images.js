@@ -34,6 +34,7 @@ import bolt from "../assets/bolt.png";
 import nb from "../assets/nb.png";
 import skype from "../assets/skype.png";
 import spotify from "../assets/spotify.png";
+import Divyansh_Rana_Resume_img from "../assets/Divyansh_Rana_Resume_img.PNG";
 
 export default {
   email,
@@ -69,4 +70,5 @@ export default {
   nb,
   skype,
   spotify,
+  Divyansh_Rana_Resume_img,
 };
