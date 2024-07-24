@@ -40,9 +40,9 @@ const About = () => {
   return (
     <>
       <h2 className="head-text">
-        I know that <span>Good Development</span>
+        Take a peek into my <span>PBs</span>
         <br />
-        means <span>Good Design</span>
+        as a <span>Developer</span>
       </h2>
 
       <div className="app__profiles">
