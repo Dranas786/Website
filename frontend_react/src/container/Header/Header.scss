@@ -166,9 +166,14 @@
 }
 
 .app__header-img-resume {
+  border-radius: 70%;
+  margin-top: 5%;
   &:hover {
     width: 80%;
     border: 5px double #555;
+    content: url("../../assets/Divyansh_Rana_Resume_img.PNG");
+    border-radius: 0%;
+    transition: all 0.3s ease-in-out;
   }
 }
 

@@ -4,6 +4,7 @@ import { AppWrap } from "../../wrapper";
 import { images } from "../../constants";
 
 import "./Header.scss";
+
 const scaleVariants = {
   whileInView: {
     scale: [0, 1],
@@ -45,9 +46,10 @@ const Header = () => {
       >
         {/*<img src={images.profile} alt="profile_bg" />*/}
         <img
-          src={images.Divyansh_Rana_Resume_img}
+          src={images.profile_pic}
           alt="profile_bg"
           className="app__header-img-resume"
+          id="app__header-img-resume-id"
         />
         <motion.img
           whileInView={{ scale: [0, 1] }}
