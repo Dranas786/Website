@@ -29,6 +29,7 @@ const Header = () => {
             <div style={{ marginLeft: 20 }}>
               <p className="p-text">Hello, I am</p>
               <h1 className="head-text">Divyansh</h1>
+              <p className="p-text">(Try hovering over my face)</p>
             </div>
           </div>
 
